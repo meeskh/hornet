@@ -1,4 +1,2 @@
 vless://3a52b76a-6913-400a-8f13-1912f157d54e@45.87.41.128:443?type=tcp&security=reality&fp=firefox&pbk=r5Y-syvzV007ke3PJ3HqzKnQVybtt6bdgLGPEiV6Dwo&sni=ftp.debian.org&flow=xtls-rprx-vision&sid=5473c974&spx=%2F#Hornet-Me
 vless://dcdb0cfb-2663-4daa-80d5-0bddbf2cd866@45.87.41.119:443?type=tcp&security=reality&fp=firefox&pbk=DTbrmXODdx72bCa3vWf9Qb8LX4RMKVBpbhsLHNJn5zI&sni=discordapp.com&flow=xtls-rprx-vision&sid=bb95e487&spx=%2F#hornet2-me
-tuic://3271ce6f-1de9-4c0c-9e5f-818dacf41cfe:a5ad81a854913a92@45.87.41.119:443/?congestion_control=bbr&udp_relay_mode=quic&allow_insecure=1#mytuic
-
