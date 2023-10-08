@@ -1,0 +1,4 @@
+vless://3a52b76a-6913-400a-8f13-1912f157d54e@45.87.41.128:443?type=tcp&security=reality&fp=firefox&pbk=r5Y-syvzV007ke3PJ3HqzKnQVybtt6bdgLGPEiV6Dwo&sni=ftp.debian.org&flow=xtls-rprx-vision&sid=5473c974&spx=%2F#Hornet-Me
+vless://9e33e334-060d-4b6a-96e9-7f2a08502d8f@45.87.41.119:25975?type=tcp&security=reality&fp=firefox&pbk=n53R7aCaUVIx_YvkABufWbP-k2dtsyU9pDoog6C6t1Y&sni=discordapp.com&flow=xtls-rprx-vision&sid=9bea4232&spx=%2F#hor2-me
+hy2://85a8926e0a988ffa@45.87.41.128:443/?obfs=salamander&obfs-password=9fdf0b3f&insecure=1#myhysteria
+tuic://e1708eb3-5674-4c8e-9bce-662b2afed148:263bed6667b7d9fa@45.87.41.119:443/?congestion_control=bbr&udp_relay_mode=quic&allow_insecure=1#mytuic
