@@ -3,3 +3,4 @@ vless://9e33e334-060d-4b6a-96e9-7f2a08502d8f@45.87.41.119:25975?type=tcp&securit
 hy2://9e3e7b2cb8306e44@45.87.41.119:443/?obfs=salamander&obfs-password=e38ad06f&insecure=1#myhyst22
 hy2://0d47b3c10510fb86@45.87.41.128:443/?obfs=salamander&obfs-password=9fdf0b3f&insecure=1#myhyst1
 sn://ssh?eNpjYGBgMDHVszDXMzHUMzTceZSDgSG3srj4BSNQwsLUzNDIxMRkQyOIBxZubAQAEhwM7w
+sn://ssh?eNpjYGBgMDHVszDXMzHUMzTacZSDgSG3uDhjIyNQwsLUzNDIxMRkQyOIl1sJEm9sBAAWaAzY
