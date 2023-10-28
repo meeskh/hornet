@@ -4,3 +4,4 @@ hy2://9e3e7b2cb8306e44@45.87.41.119:443/?obfs=salamander&obfs-password=e38ad06f&
 sn://ssh?eNpjYGBgMDHVszDXMzHUMzTceZSDgSG3srj4BSNQwsLUzNDIxMRkQyOIBxZubAQAEhwM7w
 sn://ssh?eNpjYGBgMDHVszDXMzHUMzTacZSDgSG3uDhjIyNQwsLUzNDIxMRkQyOIl1sJEm9sBAAWaAzY
 hy2://c0374c84b130530c@45.87.41.128:443/?obfs=salamander&obfs-password=012e0f9a&insecure=1#myhyst1
+tuic://63b35fe1-46ca-456d-aac1-121a790dfe0c:e8258622c90abe93@45.87.41.119:443/?congestion_control=bbr&udp_relay_mode=quic&allow_insecure=1#tuic
