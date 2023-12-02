@@ -1,2 +1,3 @@
 vless://3a52b76a-6913-400a-8f13-1912f157d54e@45.87.41.128:443?type=tcp&security=reality&fp=firefox&pbk=r5Y-syvzV007ke3PJ3HqzKnQVybtt6bdgLGPEiV6Dwo&sni=ftp.debian.org&flow=xtls-rprx-vision&sid=5473c974&spx=%2F#Hornet-Me
 vless://9ca8bb0d-6e60-4212-a078-269739965355@45.87.41.128:52299?mode=gun&security=reality&encryption=none&pbk=0PsPSNb7oPnlt5eFgLAkv68feZG-CRCm0Wym1cLggBo&fp=firefox&spx=%2F&type=grpc&serviceName=&sni=codepen.io&sid=b2d9a0cc#Hor3-Hor3
+vless://904ff8e8-7aa8-47ac-979a-5e4bd23c2d4b@on.mybussinessone.online:443?path=%2F&security=tls&encryption=none&type=ws&sni=*.mybussinessone.online#ham-2-me
