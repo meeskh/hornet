@@ -1,1 +1,1 @@
-vless://333e39c5-9042-477f-91f2-1e0222411331@discord.com:2053?type=grpc&serviceName=&security=tls&fp=chrome&alpn=http%2F1.1%2Ch2&sni=on.mybussinessone.online#Ham-3-Tki
+vless://333e39c5-9042-477f-91f2-1e0222411331@discord.com:2053?mode=gun&security=tls&encryption=none&alpn=h2,http/1.1&fp=chrome&type=grpc&serviceName=&sni=on.mybussinessone.online#Ham-3-Tki
