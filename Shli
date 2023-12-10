@@ -1,1 +1,1 @@
-vless://e99ffd38-5aaf-49ab-b510-33c60ecc4b5f@discord.com:2053?type=grpc&serviceName=&security=tls&fp=chrome&alpn=http%2F1.1%2Ch2&sni=on.mybussinessone.online#Ham-3-Shali
+vless://e99ffd38-5aaf-49ab-b510-33c60ecc4b5f@discord.com:2053?mode=gun&security=tls&encryption=none&alpn=h2,http/1.1&fp=chrome&type=grpc&serviceName=&sni=on.mybussinessone.online#Ham-3-Shali
