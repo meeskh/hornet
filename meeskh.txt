@@ -2,5 +2,5 @@ vless://3a52b76a-6913-400a-8f13-1912f157d54e@45.87.41.128:443?type=tcp&security=
 vless://9ca8bb0d-6e60-4212-a078-269739965355@45.87.41.128:52299?mode=gun&security=reality&encryption=none&pbk=0PsPSNb7oPnlt5eFgLAkv68feZG-CRCm0Wym1cLggBo&fp=firefox&spx=%2F&type=grpc&serviceName=&sni=codepen.io&sid=b2d9a0cc#Hor3-Hor3
 vless://904ff8e8-7aa8-47ac-979a-5e4bd23c2d4b@on.mybussinessone.online:443?path=%2F&security=tls&encryption=none&type=ws&sni=*.mybussinessone.online#ham-2-me
 vless://79e65454-5a4c-4543-9687-aa37e4468e66@discord.com:2053?mode=gun&security=tls&encryption=none&alpn=http/1.1,h2&fp=chrome&type=grpc&serviceName=&sni=on.mybussinessone.online#Ham-3-Me2
-sn://ssh?eNpjYGBgMDHVszDXMzHUMzTaIQbklxanfmIE0oZGxiam2xpBzMbGRgCkMQjz
 vless://8c332b12-238a-4edd-aa06-4c72ab361097@discord.com:443?security=tls&sni=argo.mybussinessone.online&type=ws&path=/501df57e-f7c8-4ff6-9b5b-c091ec63199f&host=argo.mybussinessone.online&encryption=none#argo-mehdi
+sn://ssh?eNpjYGBgMDHVszDXMzHUMzTacZyDgSE3NSPlJSNQwtDI2MR0WyOICRZrbAQA7VcL-g
