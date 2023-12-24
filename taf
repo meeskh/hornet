@@ -1,2 +1,1 @@
-vless://46e8db15-ca38-4a6b-9693-b7cb32f6107c@45.87.41.128:443?type=tcp&security=reality&fp=firefox&pbk=r5Y-syvzV007ke3PJ3HqzKnQVybtt6bdgLGPEiV6Dwo&sni=ftp.debian.org&flow=xtls-rprx-vision&sid=5473c974&spx=%2F#Hornet-Taf
-vless://f8b24b01-a1af-4f7f-a27c-91e60c47a901@discord.com:2053?type=grpc&serviceName=&security=tls&fp=chrome&alpn=http%2F1.1%2Ch2&sni=on.mybussinessone.online#Ham-3-Taf
+vless://ebe0661c-4f33-4fdb-bfce-835c7ae5aa84@discord.com:443?security=tls&sni=argo.mybussinessone.online&type=ws&path=/501df57e-f7c8-4ff6-9b5b-c091ec63199f&host=argo.mybussinessone.online&encryption=none#argo-Aaf
