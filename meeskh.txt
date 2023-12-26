@@ -3,3 +3,4 @@ vless://79e65454-5a4c-4543-9687-aa37e4468e66@discord.com:2053?mode=gun&security=
 vless://8c332b12-238a-4edd-aa06-4c72ab361097@discord.com:443?security=tls&sni=argo.mybussinessone.online&type=ws&path=/501df57e-f7c8-4ff6-9b5b-c091ec63199f&host=argo.mybussinessone.online&encryption=none#argo-mehdi
 sn://ssh?eNpjYGBgMDHVszDXMzHUMzTacZyDgSE3NSPlJSNQwtDI2MR0WyOICRZrbAQA7VcL-g
 vless://524f4df4-77c0-40da-91b9-0fe4d3f72d44@discord.com:443?path=%2F7992062a-3f41-4ed4-9776-f0eb7c1ac422&security=tls&encryption=none&host=kwmn.mybussinessone.online&type=ws&sni=kwmn.mybussinessone.online#arg-2-srqaiwsa
+sn://ssh?eNpjYGBgMDHVMzTRMzIy0TPbcZiDgSE3NSPlJSNQwtDI2MR0WyOICRZrbAQA7BgL8g
