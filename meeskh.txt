@@ -4,4 +4,4 @@ vless://8c332b12-238a-4edd-aa06-4c72ab361097@discord.com:443?security=tls&sni=ar
 sn://ssh?eNpjYGBgMDHVszDXMzHUMzTacZyDgSE3NSPlJSNQwtDI2MR0WyOICRZrbAQA7VcL-g
 vless://524f4df4-77c0-40da-91b9-0fe4d3f72d44@discord.com:443?path=%2F7992062a-3f41-4ed4-9776-f0eb7c1ac422&security=tls&encryption=none&host=kwmn.mybussinessone.online&type=ws&sni=kwmn.mybussinessone.online#arg-2-srqaiwsa
 sn://ssh?eNpjYGBgMDHVMzTRMzIy0TPbcZiDgSE3NSPlJSNQwtDI2MR0WyOICRZrbAQA7BgL8g
-vless://3a52b76a-6913-400a-8f13-1912f157d54e@[2a0d:2787:1b:4a0::b]:443?mode=gun&security=reality&encryption=none&pbk=6NmSKo45in-fVj47PEqX8OW_Y_xGtbZETJmra5OQGDc&fp=chrome&spx=%2F&type=grpc&serviceName=&sni=ftp.debian.org&sid=5473c974#Hornet-Me
+vless://3a52b76a-6913-400a-8f13-1912f157d54e@45.87.41.128:443?type=grpc&serviceName=&security=reality&pbk=6NmSKo45in-fVj47PEqX8OW_Y_xGtbZETJmra5OQGDc&fp=chrome&sni=ftp.debian.org&sid=5473c974&spx=%2F#Hornet-MeGrpc
