@@ -1,7 +1,6 @@
 vless://904ff8e8-7aa8-47ac-979a-5e4bd23c2d4b@on.mybussinessone.online:443?path=%2F&security=tls&encryption=none&type=ws&sni=*.mybussinessone.online#ham-2-me
 vless://79e65454-5a4c-4543-9687-aa37e4468e66@discord.com:2053?mode=gun&security=tls&encryption=none&alpn=http/1.1,h2&fp=chrome&type=grpc&serviceName=&sni=on.mybussinessone.online#Ham-3-Me2
 vless://8c332b12-238a-4edd-aa06-4c72ab361097@discord.com:443?security=tls&sni=argo.mybussinessone.online&type=ws&path=/501df57e-f7c8-4ff6-9b5b-c091ec63199f&host=argo.mybussinessone.online&encryption=none#argo-mehdi
-sn://ssh?eNpjYGBgMDHVszDXMzHUMzTacZyDgSE3NSPlJSNQwtDI2MR0WyOICRZrbAQA7VcL-g
 vless://524f4df4-77c0-40da-91b9-0fe4d3f72d44@discord.com:443?path=%2F7992062a-3f41-4ed4-9776-f0eb7c1ac422&security=tls&encryption=none&host=kwmn.mybussinessone.online&type=ws&sni=kwmn.mybussinessone.online#arg-2-srqaiwsa
-sn://ssh?eNpjYGBgMDHVMzTRMzIy0TPbcZiDgSE3NSPlJSNQwtDI2MR0WyOICRZrbAQA7BgL8g
-vless://3a52b76a-6913-400a-8f13-1912f157d54e@[2a0d:2787:1b:4a0::a]:443/?type=grpc&encryption=none&sni=ftp.debian.org&fp=chrome&security=reality&pbk=6NmSKo45in-fVj47PEqX8OW_Y_xGtbZETJmra5OQGDc&sid=5473c974#Hornet-MeGrpc
+vmess://ewogICJ2IjogIjIiLAogICJwcyI6ICJWTS1WbU1lMiIsCiAgImFkZCI6ICIyYTBkOjI3ODc6MWI6NGEwOjphIiwKICAicG9ydCI6IDgwODAsCiAgImlkIjogIjRjZTNlYjYxLTYyNWUtNDQ4YS1hMDgwLTdmOTQ1ODk4N2RiOCIsCiAgIm5ldCI6ICJ0Y3AiLAogICJ0eXBlIjogImh0dHAiLAogICJ0bHMiOiAibm9uZSIsCiAgInBhdGgiOiAiLyIsCiAgImhvc3QiOiAid3d3LnNwZWVkdGVzdC5uZXQiCn0=
+
