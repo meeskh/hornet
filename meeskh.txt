@@ -5,3 +5,4 @@ vless://d52c2245-4185-4e87-9a15-fe46a50efc3d@discord.com:443?security=tls&sni=kw
 hy2://dR5a2KXpBRofBqwH@v6.mybussinessone.online:26521?insecure=1&sni=bing.com
 tuic://8ef13975-ba9c-40ff-b5fc-d7e8c9e06fe5:vLEWYpgX@v6.mybussinessone.online:32625?congestion_control=bbr&alpn=h3,spdy/3.1&udp_relay_mode=native&allow_insecure=1
 vmess://eyJhZGQiOiJ2NjIubXlidXNzaW5lc3NvbmUub25saW5lIiwiYWlkIjoiMCIsImhvc3QiOiIiLCJpZCI6ImZiNDU1YWE1LTFmYTEtNGEzOS1hNjVhLWZiZmQzM2JlMWRiYiIsIm5ldCI6InRjcCIsInBhdGgiOiIvIiwicG9ydCI6IjgwODAiLCJwcyI6IlZtXzItbWVtZSIsInNjeSI6ImF1dG8iLCJzbmkiOiIiLCJ0bHMiOiIiLCJ0eXBlIjoiaHR0cCIsInYiOiIyIn0=
+sn://ssh?eNpjYGBgKDPTy61MKi0uzsxLLS7Oz0vVy8_Lycx7eoyDgSH3KSNQhaGRsYnptkYQs7g4QyH3aWMjAAODEi8
