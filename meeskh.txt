@@ -1,9 +1,4 @@
-vless://904ff8e8-7aa8-47ac-979a-5e4bd23c2d4b@on.mybussinessone.online:443?path=%2F&security=tls&encryption=none&type=ws&sni=*.mybussinessone.online#ham-2-me
-vless://79e65454-5a4c-4543-9687-aa37e4468e66@discord.com:2053?mode=gun&security=tls&encryption=none&alpn=http/1.1,h2&fp=chrome&type=grpc&serviceName=&sni=on.mybussinessone.online#Ham-3-Me2
-vmess://eyJhZGQiOiJ2NjIubXlidXNzaW5lc3NvbmUub25saW5lIiwiYWlkIjoiMCIsImhvc3QiOiIiLCJpZCI6ImZiNDU1YWE1LTFmYTEtNGEzOS1hNjVhLWZiZmQzM2JlMWRiYiIsIm5ldCI6InRjcCIsInBhdGgiOiIvIiwicG9ydCI6IjgwODAiLCJwcyI6IlZtXzItbWVtZSIsInNjeSI6ImF1dG8iLCJzbmkiOiIiLCJ0bHMiOiIiLCJ0eXBlIjoiaHR0cCIsInYiOiIyIn0=
-vless://d52c2245-4185-4e87-9a15-fe46a50efc3d@discord.com:443?security=tls&sni=kwmn.mybussinessone.online&type=ws&path=/7992062a-3f41-4ed4-9776-f0eb7c1ac422&host=kwmn.mybussinessone.online&encryption=none#argo_2-me
-hy2://dR5a2KXpBRofBqwH@v6.mybussinessone.online:26521?insecure=1&sni=bing.com
-tuic://8ef13975-ba9c-40ff-b5fc-d7e8c9e06fe5:vLEWYpgX@v6.mybussinessone.online:32625?congestion_control=bbr&alpn=h3,spdy/3.1&udp_relay_mode=native&allow_insecure=1
-vmess://eyJhZGQiOiJ2NjIubXlidXNzaW5lc3NvbmUub25saW5lIiwiYWlkIjoiMCIsImhvc3QiOiIiLCJpZCI6ImZiNDU1YWE1LTFmYTEtNGEzOS1hNjVhLWZiZmQzM2JlMWRiYiIsIm5ldCI6InRjcCIsInBhdGgiOiIvIiwicG9ydCI6IjgwODAiLCJwcyI6IlZtXzItbWVtZSIsInNjeSI6ImF1dG8iLCJzbmkiOiIiLCJ0bHMiOiIiLCJ0eXBlIjoiaHR0cCIsInYiOiIyIn0=
-sn://ssh?eNpjYGBgKDPTy61MKi0uzsxLLS7Oz0vVy8_Lycx7eoyDgSH3KSNQhaGRsYnptkYQs7g4QyH3aWMjAAODEi8
-vmess://ewogICJ2IjogIjIiLAogICJwcyI6ICJWbV8yLW1lbWUiLAogICJhZGQiOiAiMmEwZDoyNzg3OjFiOjJlNzo6YiIsCiAgInBvcnQiOiA4MDgwLAogICJpZCI6ICJmYjQ1NWFhNS0xZmExLTRhMzktYTY1YS1mYmZkMzNiZTFkYmIiLAogICJuZXQiOiAidGNwIiwKICAidHlwZSI6ICJodHRwIiwKICAidGxzIjogIm5vbmUiLAogICJwYXRoIjogIi8iCn0=
+
+vmess://eyJhZGQiOiIyYTBkOjI3ODc6MWI6MmU3OjpiIiwiYWlkIjoiMCIsImFscG4iOiIiLCJmcCI6IiIsImhvc3QiOiIiLCJpZCI6ImZiNDU1YWE1LTFmYTEtNGEzOS1hNjVhLWZiZmQzM2JlMWRiYiIsIm5ldCI6InRjcCIsInBhdGgiOiIvIiwicG9ydCI6IjgwODAiLCJwcyI6IlZtXzItbWVtZSIsInNjeSI6ImF1dG8iLCJzbmkiOiIiLCJ0bHMiOiJub25lIiwidHlwZSI6Imh0dHAiLCJ2IjoiMiJ9
+vless://cd6555b3-6e15-46ea-9d56-ccecedeab905@discord.com:443?path=%2Fme&security=tls&encryption=none&host=screw-essex-deposit-switched.trycloudflare.com&type=ws&sni=screw-essex-deposit-switched.trycloudflare.com#argo_22-xwptj7as
+tuic://87227552-e3f7-44e9-82dc-52257721d003:lR5aPaVj@[2a0d:2787:1b:2e7::a]:31309/?congestion_control=bbr&udp_relay_mode=native&alpn=h3%2Cspdy%2F3.1&allow_insecure=1
