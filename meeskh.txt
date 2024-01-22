@@ -1,6 +1,5 @@
 
 vmess://eyJhZGQiOiIyYTBkOjI3ODc6MWI6MmU3OjpiIiwiYWlkIjoiMCIsImFscG4iOiIiLCJmcCI6IiIsImhvc3QiOiIiLCJpZCI6ImZiNDU1YWE1LTFmYTEtNGEzOS1hNjVhLWZiZmQzM2JlMWRiYiIsIm5ldCI6InRjcCIsInBhdGgiOiIvIiwicG9ydCI6IjgwODAiLCJwcyI6IlZtXzItbWVtZSIsInNjeSI6ImF1dG8iLCJzbmkiOiIiLCJ0bHMiOiJub25lIiwidHlwZSI6Imh0dHAiLCJ2IjoiMiJ9
-vless://cd6555b3-6e15-46ea-9d56-ccecedeab905@discord.com:443?path=%2Fme&security=tls&encryption=none&host=screw-essex-deposit-switched.trycloudflare.com&type=ws&sni=screw-essex-deposit-switched.trycloudflare.com#argo_22-xwptj7as
 
 vless://4d256fc8-7f0d-416b-8eed-b11918ab7541@discord.com:2083?security=tls&sni=vp4.topcaremeeskh.online&alpn=h2,http/1.1&fp=chrome&type=grpc&encryption=none#grpc-me22
 
