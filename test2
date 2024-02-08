@@ -1,4 +1,161 @@
-trojan://1@17.13--2023.11.28.time:1713?sni=fake_ip_for_sub_link&security=tls#%E2%8F%B30/30GB%20%F0%9F%93%8530%20%D8%B1%D9%88%D8%B2%20%D8%A7%D8%B9%D8%AA%D8%A8%D8%A7%D8%B1
-#Hiddify auto ip: 5.120.155.143 IR 44244 MTN  fullname=Iran Cell Service and Communication Company default:mtn
-ssh://Y2IxMDc1YmUtODhjYS00ZTQzLTg4NzEtMzA0YTljYTY5ODA2OjA6LS0tLS1CRUdJTiBPUEVOU1NIIFBSSVZBVEUgS0VZLS0tLS0KYjNCbGJuTnphQzFyWlhrdGRqRUFBQUFBQkc1dmJtVUFBQUFFYm05dVpRQUFBQUFBQUFBQkFBQUFNd0FBQUF0emMyZ3RaV1F5TlRVeApPUUFBQUNBbjVYRDBZcDg3SGdNQ3dnNHpyTTNNYk10Y01FN2JqTjFPeThoSTd4eGZ2UUFBQUloOTZjRldmZW5CVmdBQUFBdHpjMmd0ClpXUXlOVFV4T1FBQUFDQW41WEQwWXA4N0hnTUN3ZzR6ck0zTWJNdGNNRTdiak4xT3k4aEk3eHhmdlFBQUFFQXQvRG1oTHdwVXZSMTgKVWI2TzRObTdRN1JsVGR3cnBZZjZxWU04NlptLzlTZmxjUFJpbnpzZUF3TENEak9zemN4c3kxd3dUdHVNM1U3THlFanZIRis5QUFBQQpBQUVDQXdRRgotLS0tLUVORCBPUEVOU1NIIFBSSVZBVEUgS0VZLS0tLS0KOjpAaG9yMjIubXlidXNzaW5lcy50b3A6MTY5Mzk=#hor22.mybussines.top%20SSH
-ssh://cb1075be-88ca-4e43-8871-304a9ca69806@hor22.mybussines.top:16939/?pk=LS0tLS1CRUdJTiBPUEVOU1NIIFBSSVZBVEUgS0VZLS0tLS0KYjNCbGJuTnphQzFyWlhrdGRqRUFBQUFBQkc1dmJtVUFBQUFFYm05dVpRQUFBQUFBQUFBQkFBQUFNd0FBQUF0emMyZ3RaV1F5TlRVeApPUUFBQUNBbjVYRDBZcDg3SGdNQ3dnNHpyTTNNYk10Y01FN2JqTjFPeThoSTd4eGZ2UUFBQUloOTZjRldmZW5CVmdBQUFBdHpjMmd0ClpXUXlOVFV4T1FBQUFDQW41WEQwWXA4N0hnTUN3ZzR6ck0zTWJNdGNNRTdiak4xT3k4aEk3eHhmdlFBQUFFQXQvRG1oTHdwVXZSMTgKVWI2TzRObTdRN1JsVGR3cnBZZjZxWU04NlptLzlTZmxjUFJpbnpzZUF3TENEak9zemN4c3kxd3dUdHVNM1U3THlFanZIRis5QUFBQQpBQUVDQXdRRgotLS0tLUVORCBPUEVOU1NIIFBSSVZBVEUgS0VZLS0tLS0K&hk=["ssh-ed25519 AAAAC3NzaC1lZDI1NTE5AAAAIIsycibNnirs3yLaNx/tviErWLiqrK47kJ3ShNYeGOzE", "ecdsa-sha2-nistp256 AAAAE2VjZHNhLXNoYTItbmlzdHAyNTYAAAAIbmlzdHAyNTYAAABBBH27BmTf/IlkWU6WIBZFs/kLlI6F4o8uH6fVGaG5NKhuwPoBFshcjXQ1DI2ZYSh5ZLL7rhPVRNj0tUcPQbHbkt0="]#hor22.mybussines.top%20SSH
+{
+  "dns": {
+    "independent_cache": true,
+    "rules": [
+      {
+        "disable_cache": true,
+        "geosite": [
+          "category-ads-all"
+        ],
+        "server": "dns-block"
+      },
+      {
+        "geosite": [
+          "ir"
+        ],
+        "server": "dns-direct"
+      }
+    ],
+    "servers": [
+      {
+        "address": "tcp://1.1.1.1",
+        "address_resolver": "dns-direct",
+        "strategy": "prefer_ipv6",
+        "tag": "dns-remote"
+      },
+      {
+        "address": "local",
+        "address_resolver": "dns-local",
+        "detour": "direct",
+        "strategy": "prefer_ipv6",
+        "tag": "dns-direct"
+      },
+      {
+        "address": "local",
+        "detour": "direct",
+        "tag": "dns-local"
+      },
+      {
+        "address": "rcode://success",
+        "tag": "dns-block"
+      }
+    ]
+  },
+  "inbounds": [
+    {
+      "listen": "127.0.0.1",
+      "listen_port": 6450,
+      "override_address": "8.8.8.8",
+      "override_port": 53,
+      "tag": "dns-in",
+      "type": "direct"
+    },
+    {
+      "domain_strategy": "",
+      "endpoint_independent_nat": true,
+      "inet4_address": [
+        "172.19.0.1/28"
+      ],
+      "inet6_address": [
+        "fdfe:dcba:9876::1/126"
+      ],
+      "mtu": 9000,
+      "sniff": true,
+      "sniff_override_destination": false,
+      "stack": "mixed",
+      "tag": "tun-in",
+      "type": "tun"
+    },
+    {
+      "domain_strategy": "",
+      "listen": "127.0.0.1",
+      "listen_port": 2080,
+      "sniff": true,
+      "sniff_override_destination": false,
+      "tag": "mixed-in",
+      "type": "mixed"
+    }
+  ],
+  "log": {
+    "level": "panic"
+  },
+  "outbounds": [
+    {
+      "local_address": [
+        "172.16.0.2/32",
+        "2606:4700:110:8c4b:a8a5:4f0b:88b0:e3bf/128"
+      ],
+      "mtu": 1280,
+      "peer_public_key": "bmXOC+F1FxEMF9dyiK2H5/1SUtzH0JuVo51h2wPfgyo=",
+    
+      "private_key": "KIqwPFvkYW0DuwcC3lOK4zUadZk0rwAsE/MHg242y3s=",
+      "reserved": "AAAA",
+      "server": "162.159.195.93",
+      "server_port": 2506,
+      "type": "wireguard",
+     
+    },
+    {
+      "tag": "direct",
+      "type": "direct"
+    },
+    {
+      "tag": "bypass",
+      "type": "direct"
+    },
+    {
+      "tag": "block",
+      "type": "block"
+    },
+    {
+      "tag": "dns-out",
+      "type": "dns"
+    }
+  ],
+  "route": {
+    "auto_detect_interface": true,
+    "rules": [
+      {
+        "outbound": "dns-out",
+        "port": [
+          53
+        ]
+      },
+      {
+        "inbound": [
+          "dns-in"
+        ],
+        "outbound": "dns-out"
+      },
+      {
+        "geosite": [
+          "category-ads-all"
+        ],
+        "outbound": "block"
+      },
+      {
+        "geosite": [
+          "ir"
+        ],
+        "outbound": "bypass"
+      },
+      {
+        "geoip": [
+          "ir"
+        ],
+        "outbound": "bypass"
+      },
+      {
+        "ip_cidr": [
+          "224.0.0.0/3",
+          "ff00::/8"
+        ],
+        "outbound": "block",
+        "source_ip_cidr": [
+          "224.0.0.0/3",
+          "ff00::/8"
+        ]
+      }
+    ]
+  }
+}
