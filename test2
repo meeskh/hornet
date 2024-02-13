@@ -51,11 +51,11 @@
       "settings": {
         "vnext": [
           {
-            "address": "zula.ir",
-            "port": 2087,
+            "address": "visa.com",
+            "port": 443,
             "users": [
               {
-                "id": "b87efa55-5e69-4ac6-928c-781483f44cb1",
+                "id": "cd6555b3-6e15-46ea-9d56-ccecedeab905",
                 "alterId": 0,
                 "email": "t@t.tt",
                 "security": "auto",
@@ -70,8 +70,8 @@
         "network": "ws",
         "security": "tls",
         "tlsSettings": {
-          "allowInsecure": true,
-          "serverName": "vP3.mybuSSInessONe.OnLIne",
+          "allowInsecure": false,
+          "serverName": "iNDustrY-lIKelY-CareER-Tips.TRyClOudfLare.cOm",
           "alpn": [
             "h2",
             "http/1.1"
@@ -80,26 +80,24 @@
           "show": false
         },
         "wsSettings": {
-          "path": "/meh",
+          "path": "/me",
           "headers": {
-            "Host": "vP3.mybuSSInessONe.OnLIne"
+            "Host": "iNDustrY-lIKelY-CareER-Tips.TRyClOudfLare.cOm"
           }
         },
         "sockopt": {
           "dialerProxy": "fragment",
           "tcpKeepAliveIdle": 100,
-          "mark": 255
+          "mark": 255,
+          "tcpNoDelay": true
         }
-      },
-      "mux": {
-        "enabled": false,
-        "concurrency": -1
       }
     },
     {
       "tag": "fragment",
       "protocol": "freedom",
       "settings": {
+        "domainStrategy": "AsIs",
         "fragment": {
           "packets": "tlshello",
           "length": "10-20",
@@ -108,9 +106,8 @@
       },
       "streamSettings": {
         "sockopt": {
-          "TcpNoDelay": true,
-          "tcpKeepAliveIdle": 100,
-          "mark": 255
+          "tcpNoDelay": true,
+          "tcpKeepAliveIdle": 100
         }
       }
     },
