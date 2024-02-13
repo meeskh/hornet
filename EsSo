@@ -51,7 +51,7 @@
       "settings": {
         "vnext": [
           {
-            "address": "zula.ir",
+            "address": "visa.com",
             "port": 2087,
             "users": [
               {
@@ -71,7 +71,7 @@
         "security": "tls",
         "tlsSettings": {
           "allowInsecure": false,
-          "serverName": "vP3.mybUSSiNESSoNe.ONlINE",
+          "serverName": "vp3.MybUSsInESSOne.OnlinE",
           "alpn": [
             "h2",
             "http/1.1"
@@ -82,7 +82,7 @@
         "wsSettings": {
           "path": "/meh",
           "headers": {
-            "Host": "vP3.mybUSSiNESSoNe.ONlINE"
+            "Host": "vp3.MybUSsInESSOne.OnlinE"
           }
         },
         "sockopt": {
@@ -91,10 +91,6 @@
           "mark": 255,
           "tcpNoDelay": true
         }
-      },
-      "mux": {
-        "enabled": false,
-        "concurrency": -1
       }
     },
     {
@@ -139,6 +135,27 @@
           "api"
         ],
         "outboundTag": "api",
+        "enabled": true
+      },
+      {
+        "id": "5465425548310166497",
+        "type": "field",
+        "outboundTag": "direct",
+        "domain": [
+          "domain:ir",
+          "geosite:cn"
+        ],
+        "enabled": true
+      },
+      {
+        "id": "5425034033205580637",
+        "type": "field",
+        "outboundTag": "direct",
+        "ip": [
+          "geoip:private",
+          "geoip:cn",
+          "geoip:ir"
+        ],
         "enabled": true
       },
       {
