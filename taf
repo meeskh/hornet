@@ -8,3 +8,5 @@ vless://31b41c72-243b-4bee-b081-b6bdd12ca1e2@[2606:4700:310c::ac42:2ed8]:443?sec
 vless://e6dfdf2a-f180-4ed9-aee2-02cebded044c@newpage1403.pages.dev:443?encryption=none&security=tls&sni=newpage1403.pages.dev&fp=randomized&type=ws&host=newpage1403.pages.dev&path=%2F%3Fed%3D2048#newpage1403.pages.dev
 vless://cf49817a-b4a3-4f9c-8e8b-51eaabe0cb28@visa.com:443?path=%2F%3Fed%3D2560&security=tls&encryption=none&host=yt1403-1.myworkmeeskh.workers.dev&fp=randomized&type=ws&sni=yt1403-1.myworkmeeskh.workers.dev#Misaka-workers-TLS
 vless://cf49817a-b4a3-4f9c-8e8b-51eaabe0cb28@visa.com:80?path=%2F%3Fed%3D2560&security=none&encryption=none&host=yt1403-1.myworkmeeskh.workers.dev&type=ws#Misaka-workers
+vless://59104879-b3ad-4101-9541-ad6444669f71@[2a0d:2787:1b:2e7::d]:32718?security=&type=tcp&encryption=none#vless-taf
+vless://59104879-b3ad-4101-9541-ad6444669f71@45.14.224.68:32718?security=&type=tcp&encryption=none#vless-taf
